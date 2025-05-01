@@ -1,1 +1,2 @@
-# YeniOkul-Database-Migration-Entity-Framework-Project
+# YeniOkul Database Migration Entity Framework Project
+
